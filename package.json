@@ -1,0 +1,15 @@
+{
+  "name": "squid-generic-utils",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@squidcloud/client": "^1.0.131",
+    "rxjs": "^7.8.1"
+  }
+}
